@@ -6,3 +6,4 @@ fifth line added
 sixth line added
 seventh line in testing branch
 Now you are a remote
+new line
